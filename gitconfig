@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adamzakaria1234@gmail.com
+	name = Adam Guesmia
